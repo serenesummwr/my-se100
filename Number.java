@@ -9,6 +9,7 @@ public class Number {
 
 // Output
 // 10
-// 4
-// 1
-// 2
+// 6
+// -1
+// -8
+
