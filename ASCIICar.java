@@ -1,5 +1,5 @@
 public class ASCIICar {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         System.out.println("      ______");
         System.out.println("    //  ||\\ \\");
         System.out.println("   //___||_\\ \\___");
